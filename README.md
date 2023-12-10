@@ -7,3 +7,4 @@ The code proposed is divided in 3 jupyter notebook:
 3) main.ipynb contain the main function to run and play the game.
 
 The implementation presented compared to the article includes a function that allows to progressively increase the speed of the snake while eating to a max speed of 50.
+In addition, once reached the score 50 it is added a red obstacle static each time the score increase of 10. Once reached 100 as score the obstacles added are moving also. A new moving obstacles appears each time the score increases of 10.
